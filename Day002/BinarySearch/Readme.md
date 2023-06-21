@@ -1,4 +1,4 @@
-# Day 1: Reverse Linked List
+# Day 2: Binary Search
 
 ## Problem Description
 
