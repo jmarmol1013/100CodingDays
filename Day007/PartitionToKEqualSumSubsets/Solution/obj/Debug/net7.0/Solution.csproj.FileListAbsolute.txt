@@ -1,0 +1,15 @@
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/obj/Debug/net7.0/Solution.csproj.AssemblyReference.cache
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/obj/Debug/net7.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/obj/Debug/net7.0/Solution.AssemblyInfoInputs.cache
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/obj/Debug/net7.0/Solution.AssemblyInfo.cs
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/obj/Debug/net7.0/Solution.csproj.CoreCompileInputs.cache
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/bin/Debug/net7.0/Solution
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/bin/Debug/net7.0/Solution.deps.json
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/bin/Debug/net7.0/Solution.runtimeconfig.json
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/bin/Debug/net7.0/Solution.dll
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/bin/Debug/net7.0/Solution.pdb
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/obj/Debug/net7.0/Solution.dll
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/obj/Debug/net7.0/refint/Solution.dll
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/obj/Debug/net7.0/Solution.pdb
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/obj/Debug/net7.0/Solution.genruntimeconfig.cache
+/Users/camilo/Desktop/Projects/100CodingDays/Day007/PartitionToKEqualSumSubsets/Solution/obj/Debug/net7.0/ref/Solution.dll
